@@ -1,13 +1,11 @@
-Thanks for helping make GitHub safe for everyone.
-
 ## Security
 
-Radmanplays takes the security of EalgerForge clients and services seriously, including all of the open-source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/GitHub).
+While there shouldn't be any risk of vulnerabilities, I still want to be serious about security in general, so here are ways to help out if there is a vulnerability.
 
 
 ## Reporting Security Issues
 
-If you believe you have found a security vulnerability in any Ealger Forge-owned repository, please report it to us through coordinated disclosure.
+If you believe you have found a security vulnerability in any of my repositories, please report it to us through coordinated disclosure.
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
@@ -22,8 +20,9 @@ Please include as much of the information listed below as you can to help us bet
   * Step-by-step instructions to reproduce the issue
   * Proof-of-concept or exploit code (if possible)
   * Impact of the issue, including how an attacker might exploit the issue
+  * Anything else that isn't in this lists
 
-This information will help us triage your report more quickly.
+This information will help us _triage_ your report more quickly.
 
 ## Policy
 
